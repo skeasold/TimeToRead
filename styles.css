@@ -2,6 +2,9 @@
     position: fixed;
     top: 50%;
     right: 1em;
-    background-color: red;
+    background-color: #ECF0F1;
+    color: #3498DB;
     padding: 10px;
+    font-family: sans-serif;
+
 }
